@@ -87,3 +87,6 @@ color: gray;
     text-align: center;
     font-size: 35px;
 }
+a:hover{
+    color: blue;
+}
