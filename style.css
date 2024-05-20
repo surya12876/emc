@@ -1,0 +1,60 @@
+
+   
+    .o{
+      border: 1px black solid;
+      font-size: 30px;
+       position: relative;
+       background-color:white;
+       left: 5em;
+       
+       text-align: center;
+       margin: 1em;
+       margin-right: 3em;
+       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+       
+      
+       width: 70%;
+       height: 15rem;
+       
+    }
+    input{
+      font-size: 30px;
+
+    }
+    label{
+      color: rgb(18, 49, 190);
+      font-size: 35px;
+ 
+      
+    }
+    .btn{
+      font-size: 35px;
+      font-style: bold;
+      border-radius: 1rem;
+      margin-top: 1rem;
+      margin-bottom: 1rem;
+      margin-left: 6rem;
+      width: 40%;
+      background-color: rgba(0, 0, 255, 0.24);
+    }
+    .email{
+      margin-top: 20px;
+   
+    }
+    .pwd{
+      margin-top: 20px;
+      margin-right: 1.5em;
+    }
+    .bottom{
+      
+      
+        font-size: 1rem;
+        justify-content: center;
+    }
+    .image{
+      margin-top: 15rem;
+      display: flex;
+      justify-content: center;
+    }
+
+    

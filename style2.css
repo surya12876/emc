@@ -1,0 +1,89 @@
+.mark1{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 3rem;
+    text-decoration: none;
+color: gray;
+
+}
+
+
+    
+.o2{
+display: flex;
+float: right;
+   font-size: 35px;
+justify-content: end;
+}
+
+
+    
+
+
+
+
+.mark1 > a{
+
+margin-right: 5rem;
+text-decoration: none;
+color: gray;
+
+
+}
+.mark1 >span{
+    
+    margin-right: 2rem;
+}
+a{
+    text-decoration: none;
+color: gray;
+}
+.container1{
+   height: 50%;
+   background-image: url(banner.jpeg);
+    
+     font-size: 20px;
+     margin-bottom: 5rem;
+  }
+
+.container1 >h1 >span{
+    color: red;
+}
+.container1 >h1 {
+    text-align: center;
+}
+.container1 > p{
+    text-align: center;
+    padding-right: 3rem;
+    padding-left: 5em;
+    margin-bottom: 2rem;
+}
+.container2 >li{
+    list-style: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px
+}
+.mark2 ul{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+    
+}
+.mark2{
+    margin-top: 5rem;
+
+}
+.people > ul{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+
+}
+.people >ul >li{
+      border-radius: 50%;
+      list-style: none;
+      
+}
+ h3{
+    text-align: center;
+    font-size: 35px;
+}
